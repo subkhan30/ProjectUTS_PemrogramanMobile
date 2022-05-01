@@ -17,7 +17,7 @@
         android:layout_height="170dp"
         android:layout_gravity="center_horizontal"
         android:layout_margin="10dp"
-        android:src="@drawable/buku" />
+        android:src="@drawable/exo" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

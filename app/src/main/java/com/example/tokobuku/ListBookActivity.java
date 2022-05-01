@@ -33,7 +33,7 @@ public class ListBookActivity extends AppCompatActivity implements AdapterView.O
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list_book);
-        this.setTitle("Kampleng Book Store");
+        this.setTitle("Loeuy Book Store");
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
